@@ -1,0 +1,1 @@
+// here there are different folders such as migration files,seeders,models
